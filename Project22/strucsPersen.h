@@ -2,7 +2,7 @@
 using namespace std;
 struct Person
 {
-	string name, surname, date_of_birtg;
+	string name, surname;
 	int age;
 	double weight;
 };
